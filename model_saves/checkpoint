@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/hedonist/Documents/tflearn_mnist/model_saves/kenneth"
+all_model_checkpoint_paths: "/home/hedonist/Documents/tflearn_mnist/model_saves/kenneth"
